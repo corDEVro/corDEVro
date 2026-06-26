@@ -84,5 +84,5 @@ Desarrollador Backend enfocado en el ecosistema de **Java** y **Spring**. Me gus
 
 <!-- Contador de visitas opcional para medir el tráfico real de tu perfil -->
 <p align="right">
-  <img src="https://hit.yhype.me/github/profile?user=corDEVro" alt="Profile Views Counter" />
+  <img src="https://img.shields.io/badge/Status-Active%20Profile-blue?style=flat-square" alt="Profile Status" />
 </p>
