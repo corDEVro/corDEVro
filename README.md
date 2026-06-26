@@ -53,7 +53,7 @@ Desarrollador Backend enfocado en el ecosistema de **Java** y **Spring**. Me gus
 
 ### 🚀 Proyectos Destacados
 
-*   **[ApplyFlow](https://github.com/corDEVro/applyflow)** - API REST empresarial para la gestión y automatización del flujo de postulaciones laborales. Diseñada bajo arquitectura limpia para centralizar el ciclo de vida de procesos de selección (Aplicado, Entrevista, Oferta, Rechazado).
+*   **[ApplyFlow](https://github.com/corDEVro/applyflow)** - API REST empresarial para la gestión y automatización del flujo de ofertas laborales. Diseñada bajo arquitectura limpia para centralizar el ciclo de vida de procesos de selección (Aplicado, Entrevista, Oferta, Rechazado).
     * **Backend Stack:** `Java 21`, `Spring Boot 3`, `Spring Security & JWT`, `Spring Data JPA`, `PostgreSQL`.
     * **Highlights Técnicos:**
         * **Seguridad Robustecida:** Implementación de autenticación stateless mediante tokens JWT y control de acceso basado en roles (RBAC) para proteger los datos privados de cada usuario.
