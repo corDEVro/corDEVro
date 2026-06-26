@@ -81,8 +81,3 @@ Desarrollador Backend enfocado en el ecosistema de **Java** y **Spring**. Me gus
 
 *   **LinkedIn:** [linkedin.com/in/juan-manuel-cor-gan](https://linkedin.com/in/juan-manuel-cor-gan)
 *   **Email:** [jm.corderoganfornina@gmail.com](mailto:jm.corderoganfornina@gmail.com)
-
-<!-- Contador de visitas opcional para medir el tráfico real de tu perfil -->
-<p align="right">
-  <img src="https://img.shields.io/badge/Status-Active%20Profile-blue?style=flat-square" alt="Profile Status" />
-</p>
