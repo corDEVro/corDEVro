@@ -71,7 +71,7 @@ Desarrollador Backend enfocado en el ecosistema de **Java** y **Spring**. Me gus
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=corDEVro&theme=dark" alt="corDEVro GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corDEVro&layout=compact&theme=dracula&hide=html,css,javascript" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corDEVro&layout=compact&theme=dracula&hide=html,css,javascript" alt="Top Languages" height= "200" />
 </p>
 
 ---
